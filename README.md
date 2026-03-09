@@ -3,7 +3,7 @@
 > A computational research project combining quantum physics, density functional theory (DFT),
 > and machine learning to accelerate catalyst discovery for sustainable ammonia production.
 >
-> **MSc Computer Science — Data Mining & Machine Learning Mini Project**
+> **MSc Computer Science — Data Mining & Machine Learning Project**
 
 ---
 
